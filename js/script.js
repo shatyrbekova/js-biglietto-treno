@@ -14,5 +14,5 @@ if (age < 18) {
     priceElement.innerHTML = salePensioner ;
 
 } else {
-    document.getElementById('price').innerHTML = price;
+   priceElement.innerHTML = price;
 }
